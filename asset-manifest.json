@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EnriqueFerrerMelian/todo-list/static/css/main.2e5e40d8.css",
+    "main.js": "/EnriqueFerrerMelian/todo-list/static/js/main.d8f8cd3d.js",
+    "static/js/453.81f383cb.chunk.js": "/EnriqueFerrerMelian/todo-list/static/js/453.81f383cb.chunk.js",
+    "index.html": "/EnriqueFerrerMelian/todo-list/index.html",
+    "main.2e5e40d8.css.map": "/EnriqueFerrerMelian/todo-list/static/css/main.2e5e40d8.css.map",
+    "main.d8f8cd3d.js.map": "/EnriqueFerrerMelian/todo-list/static/js/main.d8f8cd3d.js.map",
+    "453.81f383cb.chunk.js.map": "/EnriqueFerrerMelian/todo-list/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5e40d8.css",
+    "static/js/main.d8f8cd3d.js"
+  ]
+}

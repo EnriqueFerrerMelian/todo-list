@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Try it here!](https://enriqueferrermelian.github.io/todo-list/)
+
+## Description
+
+This is a To-Do List application built with [Create React App](https://github.com/facebook/create-react-app). It allows users to add, remove, and mark tasks as completed.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Available Scripts](#available-scripts)
+- [Contribution](#contribution)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- Add tasks
+- Remove tasks
+- Mark tasks as completed
+- Intuitive and user-friendly interface
+
+## Technologies Used
+
+- [React](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Installation
+
+To clone and run this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/todo-list.git
+   cd todo-list
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Start the application in development mode:
+    ```bash
+    npm start
+4. Open http://localhost:3000 in your browser.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following commands:
+npm start
 
-### `npm start`
+Runs the app in development mode. The page will reload if you make changes.
+npm test
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Launches the test runner in interactive mode.
+npm run build
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Builds the app for production in the build folder. Optimizes performance and delivery.
+npm run eject
 
-### `npm test`
+Note: This operation is irreversible. Once you eject, you can't go back.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you're not satisfied with the configuration, you can use this command to gain full control over the project's setup.
 
-### `npm run build`
+## Contribution
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    Fork the repository.
+    Create a new branch (git checkout -b new-feature).
+    Make your changes and commit (git commit -m 'Add new feature').
+    Submit a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
+This project is licensed under the MIT License.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you have any questions or comments, feel free to reach out at progranauta@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting the To-Do List App repository! If you encounter any issues, please open an issue.
